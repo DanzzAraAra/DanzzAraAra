@@ -1,5 +1,5 @@
 <h1 align="center">Hi i'm Danzz</h1>
-<h3 align="center">TypeScript Enthusiast | Node.js Practitioner</h3>
+<h3 align="center">JavaScript Enthusiast | Node.js Practitioner</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=DanzzAraAra&label=Profile%20Views&color=0e75b6&style=flat" alt="danzzarara" /> 
