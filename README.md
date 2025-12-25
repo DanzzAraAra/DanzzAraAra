@@ -30,26 +30,6 @@
 
 <br/>
 
-<h3 align="center">🎵 Now Playing</h3>
-
-<p align="center">
-  <img src="https://i.ytimg.com/vi/PXGycbkbtW0/sddefault.jpg" width="250" alt="It's You - Ali Gatle"/>
-</p>
-
-<p align="center">
-  <b>It's You</b><br/>
-  <i>Ali Gatle</i>
-</p>
-
-<p align="center">
-  <audio controls>
-    <source src="https://c.termai.cc/a135/Afnqs7S.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</p>
-
-<br/>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanzzAraAra&show_icons=true&locale=en&layout=compact&theme=radical" alt="DanzzAraAra Top Languages" />
 </p>
