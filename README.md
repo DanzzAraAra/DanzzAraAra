@@ -1,9 +1,9 @@
-<img src="https://c.termai.cc/i106/8p4e.jpg" alt="Danzz Banner" width="100%" style="border-radius: 8px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
+<img src="https://c.termai.cc/i106/8p4e.jpg" alt="Danzz Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
 
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Danzz;JavaScript+Enthusiast;Node.js+Practitioner;Fullstuck" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Danzz;JavaScript+Enthusiast;Node.js+Practitioner; Fullstack+Overflow" alt="Typing SVG" />
   </a>
 
   <p>
