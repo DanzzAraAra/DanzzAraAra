@@ -25,29 +25,30 @@
 
 <h3 align="center">🛠 Languages and Tools</h3>
 
-<div align="center"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-  </a> 
-  <span style="margin: 0 10px;"></span>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
-  </a> 
-  <span style="margin: 0 10px;"></span>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-  </a> 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,vscode&theme=dark" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">🏆 Achievements & Activity</h3>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DanzzAraAra&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="DanzzAraAra Trophies" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=DanzzAraAra&show_icons=true&locale=en&theme=radical&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanzzAraAra&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=DanzzAraAra&theme=radical&hide_border=true" alt="DanzzAraAra GitHub Streak" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanzzAraAra&theme=radical&hide_border=true" alt="Danzz Activity Graph" />
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
