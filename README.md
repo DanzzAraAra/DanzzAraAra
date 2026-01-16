@@ -1,54 +1,39 @@
 <div align="center">
 
-  <img src="https://c.termai.cc/i159/NqEip.jpg" alt="Danzz Banner" width="100%" style="border-radius: 10px;" />
-
-  <br/>
-
-  <h1>Hi, I'm Danzz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  
-  <h3>JavaScript Enthusiast 🚀 | Node.js Practitioner 💻</h3>
-
-  <img src="https://komarev.com/ghpvc/?username=DanzzAraAra&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="danzzarara" />
+  <img src="https://c.termai.cc/i159/NqEip.jpg" alt="Danzz Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
 
   <br/><br/>
 
-  <a href="https://www.instagram.com/danzz_foryu?igsh=MXhwcHpuamY2NHgxNQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100060181495565" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Danzz;JavaScript+Enthusiast;Node.js+Practitioner;Code.+Sleep.+Repeat." alt="Typing SVG" />
   </a>
 
-</div>
+  <p>
+    <a href="https://www.instagram.com/danzz_foryu?igsh=MXhwcHpuamY2NHgxNQ==" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    &nbsp;
+    <a href="https://www.facebook.com/profile.php?id=100060181495565" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+    </a>
+  </p>
 
-<hr/>
+  <br/>
 
-<h3 align="center">🛠 Languages and Tools</h3>
-
-<div align="center">
+  <h3>💻 Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,vscode,git,github&theme=dark" />
   </a>
-</div>
 
-<br/>
+  <br/><br/>
 
-<h3 align="center">🏆 Achievements & Activity</h3>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DanzzAraAra&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="DanzzAraAra Trophies" />
+  <h3>📈 Coding Activity</h3>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanzzAraAra&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Danzz Activity Graph" width="100%" />
   </a>
+
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanzzAraAra&theme=radical&hide_border=true" alt="Danzz Activity Graph" />
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
