@@ -30,7 +30,7 @@ interface IDanzz {
 
 const danzz: IDanzz = {
     role: "Backend Developer",
-    language: ["JavaScript", "TypeScript", "Node.js"],
+    language: ["JavaScript", "TypeScript", "Golang"],
     tools: ["VS Code", "Git", "Acode"],
     status: "Sleep"
 };
