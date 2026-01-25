@@ -1,9 +1,10 @@
-<img src="https://c.termai.cc/i106/8p4e.jpg" alt="Danzz Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
+<div align="center">
+  <img src="https://c.termai.cc/i106/8p4e.jpg" alt="Danzz Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
 
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Danzz;JavaScript+Enthusiast;Node.js+Practitioner;Fullstack+Overflow" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3382F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Danzz;JavaScript+Enthusiast;Backend+Developer;Go+%26+TypeScript+User" alt="Typing SVG" />
   </a>
 
   <p>
@@ -31,14 +32,14 @@ interface IDanzz {
 const danzz: IDanzz = {
     role: "Backend Developer",
     language: ["JavaScript", "TypeScript", "Golang"],
-    tools: ["VS Code", "Git", "Acode"],
+    tools: ["VS Code", "Git", "Postman", "Docker"],
     status: "Sleep"
 };
 ```
 <div align="center">
 <h3>💻 Tech Stack</h3>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,vscode,git,github&theme=dark" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,go,nodejs,html,css,mysql,mongodb,postman,docker,vscode,git,github%26theme%3Ddark" />
 </a>
 <h3>📈 Coding Activity</h3>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
