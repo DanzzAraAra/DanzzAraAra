@@ -1,4 +1,4 @@
-<div align="center">
+h<div align="center">
   <img src="https://c.termai.cc/i106/8p4e.jpg" alt="Danzz Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
 
   <br/><br/>
@@ -37,10 +37,11 @@ const danzz: IDanzz = {
 };
 ```
 <div align="center">
-<h3>💻 Tech Stack</h3>
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,go,nodejs,html,css,mysql,mongodb,postman,docker,vscode,git,github%26theme%3Ddark" />
-</a>
+  <h3>💻 Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,mysql,mongo,docker,git,vscode" />
+  </a>
+</div>
 <h3>📈 Coding Activity</h3>
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanzzAraAra&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Danzz Activity Graph" width="100%" />
